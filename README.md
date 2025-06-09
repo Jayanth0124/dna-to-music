@@ -2,7 +2,6 @@
 
 **Turn genes into symphonies. Discover the sound of life itself.**
 
-![BioPulse Banner](https://bio-pulse.netlify.app/cover.png)
 
 ---
 
